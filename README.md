@@ -1,0 +1,2 @@
+# botiumscript
+first test
